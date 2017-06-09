@@ -1,0 +1,26 @@
+body{
+	text-align: center;
+}
+span{
+	display: inline-block;
+	width: 560px;
+	height: 500px;
+	background-color: #333;
+	border-radius: 50%;
+	border:70px solid black;
+}
+div{
+	font-size: 150px;
+	width: 150px;
+	float: left;
+	color: #fff;
+	padding-top: 150px;
+}
+.space{
+	width: 50px;
+	position: relative;
+	top: -15px;
+}
+.clear{
+	clear: both;
+}
